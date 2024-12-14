@@ -1,1 +1,1 @@
-# Medical-Management-System
+Mohul Inventory Management system
